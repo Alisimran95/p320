@@ -1,0 +1,12 @@
+Proqramlaşdırma nədir ? — Proqramlaşdırma  dilləri elektronik cihazları kodlamaq üçün istifadə olunur. Çünki prosessorların işlətdiyi 0 və 1 mentiqidir. Yazdığımız kodlar processor tərəfindən 0 və 1-ə çevrilərək həyata keçirilir.
+ 
+Software nədir və kompüterdə necə emal olunur?
+Software program təminatıdır . Program təminatları  kodlar  vasitəsilə müxtəlif işlətmə 
+sistemləri üçün yaradılır . Programın arxa planında isə  CPU bu işi görür
+Yəni hardware ( qurğuları ) bu program teminatları sayəsində çalışdırılır.  Məsələn 
+CD-ROM - un  işləməyinə səbəb olan  driverlərdir.
+
+Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+
+Sintaksına , işləmə sürətinə və hansi məqsədlə(mobil, web, machine learning, data science ) istifadə olunmağına görə qruplaşdırmaq olar.
+
